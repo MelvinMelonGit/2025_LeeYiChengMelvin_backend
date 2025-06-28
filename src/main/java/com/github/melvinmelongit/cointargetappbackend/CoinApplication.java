@@ -1,5 +1,6 @@
 package com.github.melvinmelongit.cointargetappbackend;
 
+import com.github.melvinmelongit.cointargetappbackend.resources.CoinResource;
 import io.dropwizard.core.Application;
 import io.dropwizard.core.setup.Environment;
 
